@@ -15,7 +15,7 @@ While transformer-based HTR models are gaining popularity, this workshop will fo
 
 2024-09-24 at University of Oslo
 
-_Registration link will be provided shortly._
+_Registration link and room details will be available shortly on the [BærUt! event website](https://www.ub.uio.no/english/libraries/dsc/berut/events/)._
 
 ## Preliminary Lesson Plan
 _Please note that the lesson plan may still undergo changes until 1-2 weeks before the workshop._
