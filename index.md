@@ -15,7 +15,7 @@ While transformer-based HTR models are gaining popularity, this workshop will fo
 
 2024-09-24, 12:30 - 15:30 at DSC-Oasen, Georg Sverdrups hus, University of Oslo Library
 
-**Registration and more info at: https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-09-24_ws_pytorch.html**
+**Registration and more info at: [https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-09-24_ws_pytorch.html](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-09-24_ws_pytorch.html)**
 
 
 ## Preliminary Lesson Plan
