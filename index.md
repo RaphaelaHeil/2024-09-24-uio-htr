@@ -13,9 +13,10 @@ While transformer-based HTR models are gaining popularity, this workshop will fo
 
 ## When & Where? 
 
-2024-09-24 at University of Oslo
+2024-09-24, 12:30 - 15:30 at DSC-Oasen, Georg Sverdrups hus, University of Oslo Library
 
-_Registration link and room details will be available shortly on the [BærUt! event website](https://www.ub.uio.no/english/libraries/dsc/berut/events/)._
+**Registration and more info at: https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-09-24_ws_pytorch.html**
+
 
 ## Preliminary Lesson Plan
 _Please note that the lesson plan may still undergo changes until 1-2 weeks before the workshop._
