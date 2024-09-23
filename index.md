@@ -24,9 +24,9 @@ While transformer-based HTR models are gaining popularity, this workshop will fo
 1. General Introduction to Handwritten Text Recognition - [Slides](https://raphaelaheil.github.io/2024-09-24-uio-htr/slides/01.pdf)
 2. Data for HTR - [Slides](https://raphaelaheil.github.io/2024-09-24-uio-htr/slides/02.pdf)
 3. Preprocessing & Augmentation - [Slides](https://raphaelaheil.github.io/2024-09-24-uio-htr/slides/03.pdf)
-4. HTR Models and the CTC Loss - [Slides]()
-5. Inference and Performance Metrics - [Slides]()
-6. General Thoughts and Experiences from Implementing HTR Models - [Slides]()
+4. HTR Models and the CTC Loss - [Slides](https://raphaelaheil.github.io/2024-09-24-uio-htr/slides/04.pdf)
+5. Inference and Performance Metrics - [Slides](https://raphaelaheil.github.io/2024-09-24-uio-htr/slides/05.pdf)
+6. General Thoughts and Experiences from Implementing HTR Models - [Slides](https://raphaelaheil.github.io/2024-09-24-uio-htr/slides/06.pdf)
 7. Final questions and wrapping up
 
 
